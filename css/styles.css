@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    font-size: 2rem;
+    padding: 79px;
+    
+    
+}
+
+
+
+body{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background: url(img/vegeta.png) no-repeat center/cover;
+
+}
+
+h1{
+    font-style: italic;
+font-size: 2rem;
+width: 100%;
+ color: crimson;
+    
+}
+
+
+#btnReestablecer{
+    font-size: 1rem;
+    color: yellow;
+    background-color: red;
+    border-radius: 10px;
+    padding: 15px;
+}
